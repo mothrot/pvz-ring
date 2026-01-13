@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    
+  <head>
+    <meta charset="UTF-8">
+    <title>404!</title>
+    <meta name="robots" content="noindex">
+     <link rel="shortcut icon" href="/warnsign.ico" type="image/x-icon">
+    
+    <style>
+    
+    body {
+    background-image: url('https://sunnishinez.neocities.org/archives/bgs/grass.webp');
+    width: 900px;
+    position: relative;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 50px;
+    }
+    
+    main{display: flex;
+    flex-direction: column;
+    align-items: center;}
+    
+    .text {
+    width: 525px;
+    position: absolute;
+    top: 270px;
+    left: 410px;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Comic Sans MS', cursive;
+    }
+    
+    .note {
+    background: url('https://sunnishinez.neocities.org/archives/images/elements/error_note.png') no-repeat;
+    background-size: cover;
+    width: 91%;
+    height: 532px;
+    position: relative;
+}
+
+    #back{margin: 15px;
+    width: 195px;}
+    
+    </style>
+    
+  </head>  
+  
+  <body>
+      <main>
+      <div class="note">
+        <div class="text">
+        <h2>This is an ERROR!! <br> The page you have requested has not been found.</h2>
+        </div>
+      </div>
+      
+      <img src="https://sunnishinez.neocities.org/archives/images/elements/goback_error.png" id="back" onclick="window.location.href = '/index.html';">
+      </main>
+  </body>
+</html>
