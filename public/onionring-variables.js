@@ -15,7 +15,8 @@ var sites = [
 'https://mishcoded.nekoweb.org/',
 'https://tesseractcube.neocities.org/',
 'https://elioffline.neocities.org/',
-'https://cherrysplat.neocities.org/'
+'https://cherrysplat.neocities.org/',
+'https://phagi.neocities.org/'
 ];
 
 //the name of the ring
