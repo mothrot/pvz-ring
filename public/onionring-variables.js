@@ -7,16 +7,17 @@
 
 //the full URLs of all the sites in the ring
 var sites = [
-'https://sunnishinez.neocities.org/',
-'https://underkat.neocities.org/',
-'https://cult-master-status.neocities.org/',
-'https://valentines-archive.neocities.org/',
-'https://pastel-skies.nekoweb.org/',
-'https://mishcoded.nekoweb.org/',
-'https://tesseractcube.neocities.org/',
-'https://elioffline.neocities.org/',
-'https://cherrysplat.neocities.org/',
-'https://phagi.neocities.org/'
+    'https://sunnishinez.neocities.org/',
+    'https://underkat.neocities.org/',
+    'https://cult-master-status.neocities.org/',
+    'https://valentines-archive.neocities.org/',
+    'https://pastel-skies.nekoweb.org/',
+    'https://mishcoded.nekoweb.org/',
+    'https://tesseractcube.neocities.org/',
+    'https://elioffline.neocities.org/',
+    'https://cherrysplat.neocities.org/',
+    'https://phagi.neocities.org/',
+    'https://roflcopterr.nekoweb.org/'
 ];
 
 //the name of the ring
