@@ -17,7 +17,9 @@ var sites = [
     'https://elioffline.neocities.org/',
     'https://cherrysplat.neocities.org/',
     'https://phagi.neocities.org/',
-    'https://roflcopterr.nekoweb.org/'
+    'https://roflcopterr.nekoweb.org/',
+    'https://shanghairomance.neocities.org/',
+    'https://okthen.neocities.org/',
 ];
 
 //the name of the ring
