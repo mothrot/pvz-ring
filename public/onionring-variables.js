@@ -20,7 +20,7 @@ var sites = [
     'https://roflcopterr.nekoweb.org/',
     'https://shanghairomance.neocities.org/',
     'https://okthen.neocities.org/',
-    'http://bluepopo64.neocities.org/',
+    'https://bluepopo64.neocities.org/',
 ];
 
 //the name of the ring
