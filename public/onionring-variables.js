@@ -12,7 +12,7 @@ var sites = [
     'https://cult-master-status.neocities.org/',
     'https://valentines-archive.neocities.org/',
     'https://pastel-skies.nekoweb.org/',
-    'https://mishcoded.nekoweb.org/',
+    'https://mishcoded.lol/',
     'https://tesseractcube.neocities.org/',
     'https://elioffline.neocities.org/',
     'https://cherrysplat.neocities.org/',
