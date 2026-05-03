@@ -21,6 +21,7 @@ var sites = [
     'https://shanghairomance.neocities.org/',
     'https://okthen.neocities.org/',
     'https://bluepopo64.neocities.org/',
+    'https://www.lavender-daydream.com/',
 ];
 
 //the name of the ring
