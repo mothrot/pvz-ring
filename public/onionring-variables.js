@@ -22,6 +22,7 @@ var sites = [
     'https://okthen.neocities.org/',
     'https://bluepopo64.neocities.org/',
     'https://www.lavender-daydream.com/',
+    'https://www.virtuagirl.net/',
 ];
 
 //the name of the ring
