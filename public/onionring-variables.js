@@ -1,11 +1,5 @@
-// onionring.js is made up of four files - onionring-widget.js, onionring-index.js, onionring-variables.js (this one!), and onionring.css
-// it's licensed under the cooperative non-violent license (CNPL) v4+ (https://thufie.lain.haus/NPL.html)
-// it was originally made by joey + mord of allium (蒜) house, last updated 2020-11-24
-
 // === ONIONRING-VARIABLES ===
-//this file contains the stuff you edit to set up your specific webring
 
-//the full URLs of all the sites in the ring
 var sites = [
     'https://sunnishinez.neocities.org/',
     'https://underkat.neocities.org/',
@@ -23,6 +17,7 @@ var sites = [
     'https://bluepopo64.neocities.org/',
     'https://www.lavender-daydream.com/',
     'https://www.virtuagirl.net/',
+    'https://ninhoderato.com.br/',
 ];
 
 //the name of the ring
